@@ -1,1030 +1,1122 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728378748728 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728381776521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378751784 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381779590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378754847 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381782651 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378757906 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381785725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378761006 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381788794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378764066 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381791853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378767125 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381794914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378770196 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381797977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378773251 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381801043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378776310 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381804107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378779374 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381807173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378782448 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381810246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378787387 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381813308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378790447 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381816374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378793516 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381819434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378796576 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381822494 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378799638 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381825557 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378802701 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381828622 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378805757 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381831709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378808816 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381834774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378811875 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381839054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378814947 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381842955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378818007 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381846017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378821065 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381849079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378824131 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381852148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378828086 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381855208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378831153 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381858284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378834213 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381861352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378837274 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381864617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378840401 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381867686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378843470 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381870756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378846542 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381873822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378850209 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381876884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378853273 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381879959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378856336 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381883640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378859407 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381886705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378862474 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381889769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378865540 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381894201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378868603 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381897262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378871669 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381900328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378874777 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381903391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378877872 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381906464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378880930 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381909525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378884005 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381912587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378887071 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381915668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378890138 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381918728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378893245 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381921787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378896308 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381924848 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378899426 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381927911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378902492 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381930982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378905563 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381934041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378908622 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381937117 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378911690 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381940214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378914760 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381943283 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378917823 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381947608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378920889 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381950673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378923958 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381953742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378927032 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381957130 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378930090 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381961870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378933153 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381964938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378936213 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381968008 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378939273 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381971073 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378942334 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381974145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378945392 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381977226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378948467 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381981807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378951529 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381986715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378954596 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381989778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378957658 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381992850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378960717 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381995913 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378963784 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728381998981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378966859 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382002049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378969942 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382005115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378973206 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382008200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378976271 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382011258 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378979337 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382014321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378982400 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382017712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378985464 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382020773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378988529 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382025224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378993003 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382028287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378996062 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382032611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728378999129 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382035684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379002190 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382038743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379005256 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382041810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379008321 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382044872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379011387 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382047943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379014443 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382051006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379017506 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382054063 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379020605 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382057128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379023670 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382060188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379026734 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382063255 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379029813 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382066334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379032876 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382069391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379035943 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382072453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379039007 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382075522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379042082 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382078587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379045148 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382081649 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379048219 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382084722 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379051286 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382087781 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379054351 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382092854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379057411 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382095930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379060482 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382098996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379063540 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382102201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379066643 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382105261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379069707 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382108331 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379074411 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382111390 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379077479 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382114451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379080550 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382117509 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379083630 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382120583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379086724 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382124109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379089789 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382127194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379092882 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382130271 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379095944 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382133333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379099017 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382136416 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379102075 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382139477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379105135 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382143535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379108194 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382146614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379111260 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382149670 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379114332 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382152725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379118409 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382155790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379121479 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382158851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379124546 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382161939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379127610 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382165000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379130694 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382168065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379133760 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382171153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379136831 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382174224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379139898 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382177290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379142958 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382180443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379146020 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382183501 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379149079 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382186577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379152140 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382190421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379155895 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382193485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379158971 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382196553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379162030 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382199628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379165119 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382202689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379168186 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382205750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379171247 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382208811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379174305 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382211875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379177370 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382214934 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379180437 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382217994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379183504 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382221060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379186572 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382225316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379189640 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382228378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379192712 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382231450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379195773 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382234513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379198836 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382237577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379201911 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382240642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379204980 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382243707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379208070 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382246769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379211134 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382249832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379214222 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382252892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379217289 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382255952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379220352 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382259014 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379223421 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382262087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379226526 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382265150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379229594 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382268221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379232660 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382271296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379235734 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382274362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379238794 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382277432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379241859 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382280516 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379244921 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382283592 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379247989 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382286655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379251056 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382289715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379254129 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382292778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379257191 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382295836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379260251 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382298897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379263323 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382301960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379266382 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382305018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379269443 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382308076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379272504 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382311166 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379275565 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382314224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379278645 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382317287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379281723 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382320352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379284787 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382323415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379287852 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382326540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379290911 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382329605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379293970 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382332667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379297042 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382335725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379300106 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382338788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379303167 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382341851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379306232 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382344916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379309303 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382347999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379312371 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382351346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379315438 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382354415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379318498 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382357477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379321570 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382360544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379324633 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382363611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379327690 tunnel running, 1 tunnels registered
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728382366673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379330755 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379333822 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379336888 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379339953 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379343013 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379346114 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379349217 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379352286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379355347 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379358411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379361476 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379364534 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379367602 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379370664 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379373736 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379376800 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379379868 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379382929 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728379386006 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
