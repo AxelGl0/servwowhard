@@ -4921,3 +4921,15 @@ war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728792576318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728792579384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+questions-spam.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+war-thomas.gl.at.ply.gg:1474 => 127.0.0.1:1474 (proto: Udp, port count: 1)
